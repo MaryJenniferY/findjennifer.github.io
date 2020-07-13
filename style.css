@@ -115,7 +115,7 @@
 }
 
 .pic{
-    background: url(images/me.png) no-repeat;
+    background: url('me.png') no-repeat;
     width: 300px;
     height: 250px;
     background-size: cover;
